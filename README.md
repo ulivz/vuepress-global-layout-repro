@@ -1,5 +1,7 @@
 # vuepress-global-layout-repro
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ulivz/vuepress-global-layout-repro.svg)](https://greenkeeper.io/)
+
 > Reproduction of https://github.com/vuejs/vuepress/issues/1304
 
 ## Step to reproduce
