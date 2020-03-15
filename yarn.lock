@@ -947,8 +947,8 @@ acorn-dynamic-import@^4.0.0:
   resolved "http://registry.npm.taobao.org/acorn-dynamic-import/download/acorn-dynamic-import-4.0.0.tgz#482210140582a36b83c3e342e1cfebcaa9240948"
 
 acorn@^6.0.5:
-  version "6.1.0"
-  resolved "http://registry.npm.taobao.org/acorn/download/acorn-6.1.0.tgz#b0a3be31752c97a0f7013c5f4903b71a05db6818"
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.1.tgz#531e58ba3f51b9dacb9a6646ca4debf5b14ca474"
 
 agentkeepalive@^2.2.0:
   version "2.2.0"
@@ -5978,9 +5978,9 @@ vuepress-html-webpack-plugin@^3.2.0:
     toposort "^1.0.0"
     util.promisify "1.0.0"
 
-vuepress@^1.0.0-alpha.38:
+vuepress@1.0.0-alpha.38:
   version "1.0.0-alpha.38"
-  resolved "http://registry.npm.taobao.org/vuepress/download/vuepress-1.0.0-alpha.38.tgz#62a6b7a1e56f9eb21f7058fc49c4020aa40695b6"
+  resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-1.0.0-alpha.38.tgz#62a6b7a1e56f9eb21f7058fc49c4020aa40695b6"
   dependencies:
     "@vuepress/core" "^1.0.0-alpha.38"
     "@vuepress/theme-default" "^1.0.0-alpha.38"
